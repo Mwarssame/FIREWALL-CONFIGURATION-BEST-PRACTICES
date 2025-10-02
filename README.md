@@ -66,7 +66,7 @@ Every rule should include:
 
 ## 6. 📦 Group Related Rules Logically
 
-- Organize rules by:
+- Organise rules by:
   - Application/service (e.g., DNS, HTTP, RDP)
   - Source/Destination zones
   - User groups or departments
@@ -99,9 +99,9 @@ Every rule should include:
 
 ---
 
-## 9. 🏷️ Use Standardized Address Naming
+## 9. 🏷️ Use Standardised Address Naming
 
-- Use meaningful and standardized names for:
+- Use meaningful and standardised names for:
   - Hosts
   - Address groups
   - Zones
