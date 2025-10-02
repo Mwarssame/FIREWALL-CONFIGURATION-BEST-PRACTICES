@@ -1,5 +1,3 @@
-# FIREWALL-CONFIGURATION-BEST-PRACTICES
-
 
 # 🔐 Firewall Configuration Best Practices
 
