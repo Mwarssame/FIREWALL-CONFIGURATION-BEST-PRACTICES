@@ -133,7 +133,7 @@ Every rule should include:
 
 - Every rule should include:
   - Creator’s name or ID Mohamed Warssame
-  - Date created ( Added  on 2022-09-28. Ticket:
+  - Date created ( Added  on 2022-09-28. Ticket)
   - Ticket or change request number (change No-2354)
 - Enables accountability and traceability
 
