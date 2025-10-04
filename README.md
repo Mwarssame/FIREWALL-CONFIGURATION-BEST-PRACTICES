@@ -28,7 +28,9 @@ Why an "Any-Any" Rule Is Dangerous
 - Block all traffic by default.
 - Only allow explicitly required connections.
 - Replace overly broad rules like `ALLOW any → any` with specific source, destination, port, applications and protocol-based rules.
-- Use "any" only when there is a justified and  documented reason. Avoid naming  the rule "Temp_Fix" and  forget it. 
+- Use "any" only when there is a justified and  documented reason. "Avoid naming the rule 'Temp_Fix' and forgetting about it."
+ 💡 Your Network’s Firewall Is Not "Set and Forget"
+- Many businesses believe that once a firewall is installed, it's secure forever. But our audits consistently reveal outdated rules, over-permissive access, and lack of monitoring — opening the door to cyber threats.
 
 ---
 
