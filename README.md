@@ -124,7 +124,7 @@ Every rule should include:
 - Keep naming short, precise, and consistent.
 
 **Example:**
-- ✅ `WEB_DMZ_01`
+- ✅ `WEB_DMZ_email_server`
 - ❌ `web-server`, `webServer01`, `Web-SERVER-1`
 
 ---
